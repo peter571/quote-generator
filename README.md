@@ -9,4 +9,4 @@
 - React fetch API
 - React hooks and states
 
-# App demo can be found [here]()
+# App demo can be found [here](https://mydaily-advice.netlify.app/)
